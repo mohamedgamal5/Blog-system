@@ -1,0 +1,33 @@
+.add-comment {
+    margin: 30px 0;
+    display: flex;
+    flex-direction: row;
+}
+
+.add-comment-input {
+    width: 100%;
+    font-size: 21px;
+    border: none;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    margin-right: 5px;
+}
+
+.add-comment-btn {
+    background-color: var(--blue-color);
+    color: var(--white-color);
+    font-size: 18px;
+    cursor: pointer;
+    border-radius: 25px;
+    border: none;
+    height: 50px;
+    width: 50px;
+}
+
+.bi-arrow-right-circle-fill{
+    color: var(--blue-color);
+    width: 50px;
+    height: 50px;
+}
+/*  */
